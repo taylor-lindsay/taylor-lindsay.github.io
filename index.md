@@ -1,10 +1,11 @@
-## Bio
+## About Me
 
 ---
 ### Education
 
-[Project 1 Title](/sample_page)
+[University of New Hampshire](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[University of Rhode Island](/sample_page)
 
 ---
 ### Work Experience
