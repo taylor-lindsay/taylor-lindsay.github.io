@@ -2,6 +2,8 @@
 
 ---
 ### Education
+* University of New Hampshire, B.S. Environmental Science: Ecosystems, 2019 
+* Univeristy of Rhode Island, PhD Evolution and Marine Biolgoy, in progress
 
 [University of New Hampshire](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -10,12 +12,10 @@
 ---
 ### Work Experience
 
-
 ---
-### Recent Projects
+### Publications
 
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+- [Gopal et al. 2020](http://bloose.github.io/pdf/Gopal_2020.pdf)
 
 ---
 
