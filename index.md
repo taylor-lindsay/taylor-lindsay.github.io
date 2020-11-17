@@ -1,9 +1,11 @@
 ## About Me
 [View my Academic Resume](https://taylor-lindsay.github.io/pdf/CV.pdf)
+
 ---
 ### Education
 * University of New Hampshire, B.S. Environmental Science: Ecosystems, 2019 
-* Univeristy of Rhode Island, PhD Evolution and Marine Biolgoy, in progress
+* Univeristy of Rhode Island, PhD Evolution and Marine Biology, in progress
+
 ---
 ### Work Experience
 * Laboratory Coordinator, Shoals Marine Lab 
@@ -12,9 +14,11 @@
     - Intro to Marine Biology: BIO 360
     - Intertidal Ecology: BIO 416
     - Introductory Biology Laboratory: BIO 103
+
 ---
 ### Publications
-- [Gopal et al. 2020](https://taylor-lindsay.github.io/pdf/Gopal_2020.pdf)
+[Gopal et al. 2020](https://taylor-lindsay.github.io/pdf/Gopal_2020.pdf)
+
 ---
 <img src="images/turtle.jpg?raw=true"/>
 ---
