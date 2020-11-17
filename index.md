@@ -1,5 +1,5 @@
 ## About Me
-[View my Academic Resume](https://taylor-lindsay.github.io/pdf/CV_11/16/20.pdf)
+[View my Academic Resume](https://taylor-lindsay.github.io/pdf/CV.pdf)
 
 ---
 ### Education
