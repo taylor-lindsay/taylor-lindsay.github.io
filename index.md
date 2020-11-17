@@ -1,17 +1,22 @@
 ## About Me
+[View my Academic Resume](https://taylor-lindsay.github.io/pdf/CV_11/16/20.pdf)
 
 ---
 ### Education
 * University of New Hampshire, B.S. Environmental Science: Ecosystems, 2019 
 * Univeristy of Rhode Island, PhD Evolution and Marine Biolgoy, in progress
 
-[University of New Hampshire](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-[University of Rhode Island](/sample_page)
+
 
 ---
 ### Work Experience
-
+* Laboratory Coordinator, Shoals Marine Lab 
+* Teaching Assistant, Univeristy of Rhode Island 
+    - Intro to Marine Biology: BIO 360
+    - Intertidal Ecology: BIO 416
+    - Introductory Biology Laboratory: BIO 103
+* Ecohydrology Laboatory Technician, University of New Hamsphire
 ---
 ### Publications
 
