@@ -15,7 +15,7 @@
 ---
 ### Publications
 
-- [Gopal et al. 2020](https://bloose.github.io/pdf/Gopal_2020.pdf)
+- [Gopal et al. 2020](https://taylor-lindsay.github.io/pdf/Gopal_2020.pdf)
 
 ---
 
