@@ -1,5 +1,5 @@
 ## About Me
-[View my Academic Resume](https://taylor-lindsay.github.io/pdf/CV_11/16/20.pdf)
+[View my Academic Resume](https://taylor-lindsay.github.io/pdf/CV_11/16/20)
 
 ---
 ### Education
@@ -12,11 +12,11 @@
 ---
 ### Work Experience
 * Laboratory Coordinator, Shoals Marine Lab 
+* Ecohydrology Laboatory Technician, University of New Hamsphire
 * Teaching Assistant, Univeristy of Rhode Island 
     - Intro to Marine Biology: BIO 360
     - Intertidal Ecology: BIO 416
     - Introductory Biology Laboratory: BIO 103
-* Ecohydrology Laboatory Technician, University of New Hamsphire
 ---
 ### Publications
 
